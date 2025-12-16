@@ -4,8 +4,8 @@ The code is for the course project of INST 808: Computational Text Analytics usi
 
 ### Collect data with Reddit API PRAW
 **Code file**: data_collection.ipynb <br />
-Input file: None <br />
-Output file: datasets/df_airelationships.csv; datasets/df_soulmateai.csv; datasets/df_myboyfriendisai.csv; datasets/df_mygirlfriendisai.csv
+**Input file**: None <br />
+**Output file**: datasets/df_airelationships.csv; datasets/df_soulmateai.csv; datasets/df_myboyfriendisai.csv; datasets/df_mygirlfriendisai.csv
 
 ### Clean data
 **Code file**: data_cleaning.ipynb <br />
