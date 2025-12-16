@@ -20,12 +20,12 @@ Output file: None. Output are directly printed in .ipynb
 ### K means clustering on posts before the GPT-5 release
 Code file: kmeans_beforeGPT5.ipynb <br />
 Input file: datasets/df_all_unique.csv <br />
-Output file: None. Output are directly printed in .ipynb
+Output file: datasets/df_beforeGPT5_clusters.csv
 
 ### K means clustering on posts after the GPT-5 release
 Code file: kmeans_afterGPT5.ipynb <br />
 Input file: datasets/df_all_unique.csv <br />
-Output file: None. Output are directly printed in .ipynb
+Output file: datasets/df_afterGPT5_clusters.csv
 
 ### Anthropomorphism analysis
 Code file: anthropomorphism.ipynb <br />
